@@ -1,0 +1,1 @@
+exec ./multivalent impose -verbose -layout 2,3,6,7,4,1,8,5 -sep 1 -paper 6x10in "$@"
